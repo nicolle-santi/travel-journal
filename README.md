@@ -1,1 +1,0 @@
-Travel Journal - Exercise from Scrimba course "Learn React" made by Nicolle Santi
